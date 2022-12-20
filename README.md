@@ -1,4 +1,4 @@
-##Sensor-de-Luminosidade
+#Sensor-de-Luminosidade
 
 Este repositório trata-se de um artigo feito por mim enquanto formanda da Universidade Presbiteriana Mackenzie, onde crio um protótipo de IOT capaz de analisar a luminosidade do ambiente
 
@@ -50,10 +50,7 @@ Serial.begin(9600);   // vamos fazer o setup do serial da placa Arduino, o valor
 pinMode(LED, OUTPUT);   // representa a saída do led, onde poderemos liga-lo e desliga-lo.
 
 
-
 }
-
-
 
 
 void loop()
